@@ -33,6 +33,17 @@ Repository Contents
 * LEDs (Red, Yellow, Green)
 * Resistors, jumper wires, breadboard
 
+  # Usage
+Place the soil moisture sensor into the soil.
+Power on the Arduino-based device.
+View temperature, humidity, and light levels on the LCD screen.
+Check the LED indicators for soil moisture levels:
+Green → Moisture at 50%
+Yellow → Moisture at 30%
+Flashing Red → Moisture at 10%
+Adjust watering based on the readings for healthy soil conditions. 
+
 # Product images
 <img width="546" height="503" alt="assembly image" src="https://github.com/user-attachments/assets/d4ca6460-870d-4b01-aba9-8154c977d843" />
+<img width="1536" height="598" alt="Fantabulous Curcan" src="https://github.com/user-attachments/assets/27978b06-5f9e-4999-a418-0610468afaab" />
 
